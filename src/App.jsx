@@ -3,7 +3,7 @@ import {
   useQueryClient,
   useQuery,
   keepPreviousData,
-} from "@tanStack/react-query";
+} from "@tanstack/react-query";
 import axios from "axios";
 import Pagination from "@mui/material/Pagination";
 
